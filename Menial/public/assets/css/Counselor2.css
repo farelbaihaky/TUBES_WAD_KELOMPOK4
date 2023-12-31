@@ -1,0 +1,578 @@
+.counselor-profile-2,
+.counselor-profile-2 * {
+  box-sizing: border-box;
+}
+.counselor-profile-2 {
+  background: #ffffff;
+  width: 1519px;
+  height: 1999px;
+  position: relative;
+  overflow: hidden;
+}
+.card-counselor-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle {
+  background: #ffffff;
+  border-radius: 9px;
+  width: 680px;
+  height: 195px;
+  position: absolute;
+  left: 111px;
+  top: 226px;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+}
+.button-selengkapnya-2 {
+  width: 173px;
+  height: 40px;
+  position: absolute;
+  left: 598px;
+  top: 362px;
+}
+.rectangle-3 {
+  background: #41a2e8;
+  border-radius: 25px;
+  width: 173px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.lihat-selengkapnya {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 59.5px);
+  top: 12.5px;
+}
+.jennie-m-psi-psikolog {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 346.29px;
+  top: 261px;
+  width: 282.35px;
+}
+.pengalaman-praktik-4-10-tahun {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 346.29px;
+  top: 308px;
+  width: 384.71px;
+}
+.jennie {
+  border-radius: 330px;
+  width: 168px;
+  height: 170px;
+  position: absolute;
+  left: 138px;
+  top: 238px;
+}
+.card-counselor-2-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle2 {
+  background: #ffffff;
+  border-radius: 9px;
+  width: 678px;
+  height: 195px;
+  position: absolute;
+  left: 111px;
+  top: 714px;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+}
+.minji {
+  border-radius: 330px;
+  width: 168px;
+  height: 170.79px;
+  position: absolute;
+  left: 130px;
+  top: 726px;
+}
+.minji-m-psi-psikolog {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 345.6px;
+  top: 749px;
+  width: 281.52px;
+}
+.pengalaman-praktik-15-20-tahun {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 345.6px;
+  top: 796px;
+  width: 383.57px;
+}
+.button-selengkapnya-2-3 {
+  width: 173px;
+  height: 40px;
+  position: absolute;
+  left: 598px;
+  top: 850px;
+}
+.card-counselor-2-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle3 {
+  background: #ffffff;
+  border-radius: 9px;
+  border-style: solid;
+  border-color: #8dbbff;
+  border-width: 5px;
+  width: 678px;
+  height: 195px;
+  position: absolute;
+  left: 111px;
+  top: 958px;
+  box-shadow: inset 0px 4px 20px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.younjung {
+  border-radius: 330px;
+  width: 168px;
+  height: 170.79px;
+  position: absolute;
+  left: 130px;
+  top: 970px;
+}
+.younjung-m-psi-psikolog {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 346px;
+  top: 993px;
+  width: 341px;
+}
+.pengalaman-praktik-30-tahun {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 345.6px;
+  top: 1040px;
+  width: 383.57px;
+}
+.button-selengkapnya-2-4 {
+  width: 173px;
+  height: 40px;
+  position: absolute;
+  left: 598px;
+  top: 1094px;
+}
+.card-counselor-2-5 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle4 {
+  background: #ffffff;
+  border-radius: 9px;
+  width: 678px;
+  height: 195px;
+  position: absolute;
+  left: 111px;
+  top: 1202px;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+}
+.pham {
+  border-radius: 330px;
+  width: 168px;
+  height: 171.11px;
+  position: absolute;
+  left: 130px;
+  top: 1213px;
+}
+.pham-m-psi-psikolog {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 345.6px;
+  top: 1237px;
+  width: 281.52px;
+}
+.pengalaman-praktik-4-10-tahun2 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 345.6px;
+  top: 1284px;
+  width: 383.57px;
+}
+.button-selengkapnya-2-5 {
+  width: 173px;
+  height: 40px;
+  position: absolute;
+  left: 598px;
+  top: 1338px;
+}
+.card-counselor-2-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle5 {
+  background: #ffffff;
+  border-radius: 9px;
+  width: 678px;
+  height: 195px;
+  position: absolute;
+  left: 111px;
+  top: 470px;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+}
+.jisoo-m-psi-psikolog {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 346px;
+  top: 505px;
+  width: 326px;
+}
+.pengalaman-praktik-5-tahun {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 346px;
+  top: 552px;
+  width: 383px;
+}
+.jisoo {
+  border-radius: 330px;
+  width: 168px;
+  height: 171.42px;
+  position: absolute;
+  left: 138px;
+  top: 481px;
+}
+.button-selengkapnya-2-2 {
+  width: 173px;
+  height: 40px;
+  position: absolute;
+  left: 598px;
+  top: 607px;
+}
+.card-detail {
+  width: 498px;
+  height: 929px;
+  position: absolute;
+  left: 863px;
+  top: 229px;
+}
+.rectangle6 {
+  background: #ffffff;
+  border-radius: 9px;
+  width: 498px;
+  height: 929px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.25);
+}
+.younjung-m-psi-psikolog2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 157px);
+  top: 484px;
+  width: 315px;
+}
+.psikolog-klinis-umum {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 70px);
+  top: 461px;
+  width: 141px;
+}
+.younjung-m-psi-psikolog-merupakan-psikolog-klinis-yang-berpraktik-sejak-2015-kasus-yang-ditangani-oleh-annisa-meliputi-pengembangan-diri-masalah-diri-trauma-gangguan-kepribadian-gangguan-perilaku-emosional-gangguan-penyesuaian-dan-masalah-relasi-dalam-melakukan-sesi-terapi-annisa-biasa-menggunakan-pendekatan-transpersonal-dengan-teknik-mindfulness-compassion-behavior-activation-art-therapy-maupun-forgiveness-therapy-selain-aktif-sebagai-associate-di-ibunda-id-ia-juga-aktif-membuat-konten-edukasi-terkait-kesehatan-mental-dan-sebagai-pembicara-di-berbagai-event-dengan-topik-terkait-kesehatan-mental-mindfulness-compassion-maupun-stress-management {
+  color: #000000;
+  text-align: justified;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 42px;
+  top: 542px;
+  width: 414px;
+  height: 246px;
+}
+.yonjung-1 {
+  border-radius: 9px 9px 0px 0px;
+  width: 498px;
+  height: 426px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.button-schedule {
+  width: 173px;
+  height: 40px;
+  position: absolute;
+  left: 162px;
+  top: 833px;
+}
+.rectangle7 {
+  background: #41a2e8;
+  border-radius: 25px;
+  width: 173px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.schedule {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 31.5px);
+  top: 12.5px;
+}
+.navigation-counselor-2 {
+  width: 1311px;
+  height: 36px;
+  position: absolute;
+  left: 111px;
+  top: 44px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -125.5px);
+  top: 4px;
+  width: 49px;
+}
+.consultation {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -204.5px);
+  top: 4px;
+  width: 103px;
+}
+.counselor-profile {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -337.5px);
+  top: 4px;
+  width: 142px;
+}
+.history {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -504.5px);
+  top: 4px;
+  width: 55px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -589.5px);
+  top: 4px;
+  width: 66px;
+}
+.logo-menial {
+  width: 142px;
+  height: 36px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.footer-counselor-2 {
+  width: 1519px;
+  height: 459px;
+  position: absolute;
+  left: calc(50% - 759.5px);
+  top: 1540px;
+}
+.frame {
+  background: #41a2e8;
+  width: 1519px;
+  height: 459px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.address {
+  width: 397px;
+  height: 156px;
+  position: absolute;
+  left: calc(50% - 198.5px);
+  top: 76px;
+}
+.jl-telekomunikasi-1-terusan-buahbatu-bojongsoang-telkom-university-sukapura-kec-dayeuhkolot-kabupaten-bandung-jawa-barat-40257 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+  width: 397px;
+}
+.address2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.copyright-2023-menial {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 116px;
+  top: 359px;
+  width: 245px;
+}
+.social-media {
+  width: 220px;
+  height: 108px;
+  position: absolute;
+  left: 1064px;
+  top: 76px;
+}
+.social-media2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.instagram {
+  width: 47px;
+  height: 46px;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+  overflow: visible;
+}
+.youtube {
+  width: 46px;
+  height: 47px;
+  position: absolute;
+  left: 62px;
+  top: 60px;
+  overflow: visible;
+}
+.facebook {
+  width: 36px;
+  height: 37px;
+  position: absolute;
+  left: 123px;
+  top: 66px;
+  overflow: visible;
+}
+.line {
+  width: 46px;
+  height: 47px;
+  position: absolute;
+  left: 174px;
+  top: 61px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.line-footer {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1168px;
+  height: 0px;
+  position: absolute;
+  left: 116px;
+  top: 329.5px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.logo-menial-2 {
+  width: 167px;
+  height: 42px;
+  position: absolute;
+  left: 117px;
+  top: 80px;
+}

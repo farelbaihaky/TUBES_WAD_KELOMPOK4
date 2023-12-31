@@ -1,0 +1,612 @@
+.chat,
+.chat * {
+  box-sizing: border-box;
+}
+.chat {
+  background: #ffffff;
+  width: 1519px;
+  height: 1347px;
+  position: relative;
+  overflow: hidden;
+}
+.banner-chat {
+  width: 1226px;
+  height: 126px;
+  position: absolute;
+  left: 293px;
+  top: 0px;
+}
+.rectangle {
+  background: #ffffff;
+  width: 1226px;
+  height: 126px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.name {
+  width: 174px;
+  height: 28px;
+  position: absolute;
+  left: 163px;
+  top: 45px;
+}
+.pham-wiguritno {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.online {
+  width: 69px;
+  height: 24px;
+  position: absolute;
+  left: 163px;
+  top: 75px;
+}
+.online2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ellipse-3 {
+  background: #34a853;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 54px;
+  top: 2px;
+}
+.pham-wiguritno2 {
+  border-radius: 330px;
+  width: 73px;
+  height: 72px;
+  position: absolute;
+  left: 78px;
+  top: 26px;
+}
+.button-back {
+  width: 22.76px;
+  height: 24.61px;
+  position: absolute;
+  left: 28px;
+  top: 51px;
+  overflow: visible;
+}
+.side-bar {
+  width: 293px;
+  height: 886px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle2 {
+  background: rgba(43, 163, 244, 0.85);
+  width: 293px;
+  height: 886px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.recent-message {
+  width: 236px;
+  height: 250px;
+  position: absolute;
+  left: 28px;
+  top: 201px;
+}
+.recent {
+  width: 212px;
+  height: 44px;
+  position: absolute;
+  left: 1px;
+  top: 41px;
+}
+.you-assalamualaikum {
+  color: #fffefe;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  position: absolute;
+  left: 52px;
+  top: 22px;
+}
+.dr-lars-ulrich {
+  color: #fffefe;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 52px;
+  top: 0px;
+}
+.lars-ulrich {
+  border-radius: 330px;
+  width: 43.1px;
+  height: 41px;
+  position: absolute;
+  left: 0px;
+  top: 3px;
+}
+.recent-message2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 23px;
+  top: 0px;
+}
+.recent-2 {
+  width: 236px;
+  height: 45px;
+  position: absolute;
+  left: 0px;
+  top: 95px;
+}
+.james-hetfield {
+  border-radius: 330px;
+  width: 43.1px;
+  height: 41px;
+  position: absolute;
+  left: 0px;
+  top: 4px;
+}
+.you-baik-terima-kasih {
+  color: #fffefe;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  position: absolute;
+  left: 53px;
+  top: 23px;
+}
+.dr-james-hetfield {
+  color: #fffefe;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 53px;
+  top: 0px;
+}
+.recent-3 {
+  width: 232px;
+  height: 45px;
+  position: absolute;
+  left: 0px;
+  top: 150px;
+}
+.charles-xavier {
+  border-radius: 330px;
+  width: 43.1px;
+  height: 41px;
+  position: absolute;
+  left: 0px;
+  top: 4px;
+}
+.you-bagaimana {
+  color: #fffefe;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  position: absolute;
+  left: 53px;
+  top: 23px;
+}
+.dr-charles-xavier {
+  color: #fffefe;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 53px;
+  top: 0px;
+}
+.recent-4 {
+  width: 233px;
+  height: 45px;
+  position: absolute;
+  left: 1px;
+  top: 205px;
+}
+.bill {
+  border-radius: 330px;
+  width: 43.1px;
+  height: 41px;
+  position: absolute;
+  left: 0px;
+  top: 4px;
+}
+.dr-bill-baiklah {
+  color: #fffefe;
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  position: absolute;
+  left: 52px;
+  top: 23px;
+}
+.dr-bill {
+  color: #fffefe;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 52px;
+  top: 0px;
+}
+.notifications {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-5 {
+  width: 21px;
+  height: 21px;
+  position: absolute;
+  left: 212px;
+  top: 17px;
+  overflow: visible;
+}
+._2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-ExtraBold", sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+  position: absolute;
+  left: 219px;
+  top: 18px;
+}
+.logo-menial-2 {
+  width: 167px;
+  height: 42px;
+  position: absolute;
+  left: 44px;
+  top: 53px;
+}
+.background-chat {
+  width: 1226px;
+  height: 769px;
+  position: absolute;
+  left: 293px;
+  top: 126px;
+}
+.chat2 {
+  width: 397px;
+  height: 63px;
+  position: absolute;
+  left: 344px;
+  top: 274px;
+}
+.pham-wiguritno3 {
+  border-radius: 330px;
+  width: 57.82px;
+  height: 55px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle3 {
+  border-radius: 0px;
+  width: 334px;
+  height: 61px;
+  position: absolute;
+  left: 63px;
+  top: 2px;
+  overflow: visible;
+}
+.halo-selamat-malam-ada-yang-bisa-saya-bantu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 93px;
+  top: 11px;
+  width: 274px;
+  height: 44px;
+}
+.chat-3 {
+  width: 389px;
+  height: 86px;
+  position: absolute;
+  left: 344px;
+  top: 591px;
+}
+.rectangle4 {
+  border-radius: 0px;
+  width: 363px;
+  height: 99px;
+  position: absolute;
+  left: 66px;
+  top: 2px;
+  overflow: visible;
+}
+.untuk-memahami-lebih-dalam-bisakah-anda-ceritakan-lebih-banyak-tentang-perasaan-anda-belakangan-ini {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 96px;
+  top: 10px;
+  width: 317px;
+  height: 76px;
+}
+.keyboard {
+  width: 907px;
+  height: 67px;
+  position: absolute;
+  left: 413px;
+  top: 749px;
+}
+.rectangle5 {
+  background: rgba(255, 255, 255, 0.97);
+  border-radius: 39px;
+  border-style: solid;
+  border-color: #d9d9d9;
+  border-width: 3px;
+  width: 907px;
+  height: 67px;
+  position: absolute;
+  left: calc(50% - 453.5px);
+  top: 0px;
+  box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.15);
+}
+.send-icon {
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  left: 839px;
+  top: 12px;
+}
+.ellipse {
+  background: #41a2e8;
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.send {
+  width: 22.78px;
+  height: 22.78px;
+  position: absolute;
+  left: 19.11px;
+  top: 5px;
+  transform: translate(-16.11px, 0px);
+  overflow: visible;
+}
+.type-a-message {
+  color: #c1c1c1;
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 34px;
+  top: 26px;
+  width: 183px;
+  height: 28px;
+}
+.chat-2 {
+  width: 549px;
+  height: 95px;
+  position: absolute;
+  left: 906px;
+  top: 426px;
+}
+.customer {
+  border-radius: 50%;
+  width: 57px;
+  height: 55px;
+  position: absolute;
+  left: 492px;
+  top: 0px;
+}
+.rectangle6 {
+  background: rgba(65, 162, 232, 0.24);
+  border-radius: 0px 15px 21px 35px;
+  width: 480px;
+  height: 95px;
+  position: absolute;
+  left: 480px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.selamat-pagi-dokter-saya-merasa-cemas-belakangan-ini-sulit-tidur-dan-sulit-berkonsentrasi-apakah-ini-hanya-stres-biasa-atau-ada-yang-lebih-serius {
+  color: #000000;
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 116.67%;
+  font-weight: 400;
+  position: absolute;
+  left: 14px;
+  top: 14px;
+  width: 451px;
+  height: 17px;
+}
+.today {
+  background: rgba(255, 255, 255, 0.44);
+  border-radius: 45px;
+  padding: 4px 23px 4px 23px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 858px;
+  top: 172px;
+  overflow: hidden;
+}
+.today2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 116.67%;
+  font-weight: 400;
+  position: relative;
+}
+.footer-chat {
+  width: 1519px;
+  height: 459px;
+  position: absolute;
+  left: calc(50% - 759.5px);
+  top: 886px;
+}
+.frame {
+  background: #41a2e8;
+  width: 1519px;
+  height: 459px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.address {
+  width: 397px;
+  height: 156px;
+  position: absolute;
+  left: calc(50% - 198.5px);
+  top: 76px;
+}
+.jl-telekomunikasi-1-terusan-buahbatu-bojongsoang-telkom-university-sukapura-kec-dayeuhkolot-kabupaten-bandung-jawa-barat-40257 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+  width: 397px;
+}
+.address2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.copyright-2023-menial {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 116px;
+  top: 359px;
+  width: 245px;
+}
+.social-media {
+  width: 220px;
+  height: 108px;
+  position: absolute;
+  left: 1064px;
+  top: 76px;
+}
+.social-media2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.instagram {
+  width: 47px;
+  height: 46px;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+  overflow: visible;
+}
+.youtube {
+  width: 46px;
+  height: 47px;
+  position: absolute;
+  left: 62px;
+  top: 60px;
+  overflow: visible;
+}
+.facebook {
+  width: 36px;
+  height: 37px;
+  position: absolute;
+  left: 123px;
+  top: 66px;
+  overflow: visible;
+}
+.line {
+  width: 46px;
+  height: 47px;
+  position: absolute;
+  left: 174px;
+  top: 61px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.line-footer {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1168px;
+  height: 0px;
+  position: absolute;
+  left: 116px;
+  top: 329.5px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.logo-menial-22 {
+  width: 167px;
+  height: 42px;
+  position: absolute;
+  left: 117px;
+  top: 80px;
+}

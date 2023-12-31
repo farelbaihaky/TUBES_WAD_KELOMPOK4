@@ -1,0 +1,522 @@
+.schedule,
+.schedule * {
+  box-sizing: border-box;
+}
+.schedule {
+  background: #ffffff;
+  width: 1519px;
+  height: 1502px;
+  position: relative;
+  overflow: hidden;
+}
+.footer-schedule {
+  width: 1519px;
+  height: 459px;
+  position: absolute;
+  left: calc(50% - 759.5px);
+  top: 1043px;
+}
+.frame {
+  background: #41a2e8;
+  width: 1519px;
+  height: 459px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.address {
+  width: 397px;
+  height: 156px;
+  position: absolute;
+  left: calc(50% - 198.5px);
+  top: 76px;
+}
+.jl-telekomunikasi-1-terusan-buahbatu-bojongsoang-telkom-university-sukapura-kec-dayeuhkolot-kabupaten-bandung-jawa-barat-40257 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+  width: 397px;
+}
+.address2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.copyright-2023-menial {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 116px;
+  top: 359px;
+  width: 245px;
+}
+.social-media {
+  width: 220px;
+  height: 108px;
+  position: absolute;
+  left: 1064px;
+  top: 76px;
+}
+.social-media2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.instagram {
+  width: 47px;
+  height: 46px;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+  overflow: visible;
+}
+.youtube {
+  width: 46px;
+  height: 47px;
+  position: absolute;
+  left: 62px;
+  top: 60px;
+  overflow: visible;
+}
+.facebook {
+  width: 36px;
+  height: 37px;
+  position: absolute;
+  left: 123px;
+  top: 66px;
+  overflow: visible;
+}
+.line {
+  width: 46px;
+  height: 47px;
+  position: absolute;
+  left: 174px;
+  top: 61px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.line-footer {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1168px;
+  height: 0px;
+  position: absolute;
+  left: 116px;
+  top: 329.5px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.logo-menial-2 {
+  width: 167px;
+  height: 42px;
+  position: absolute;
+  left: 117px;
+  top: 80px;
+}
+.psychologist-detail {
+  width: 440px;
+  height: 382px;
+  position: absolute;
+  left: 993px;
+  top: 196px;
+}
+.rectangle {
+  background: #ffffff;
+  border-radius: 9px;
+  border-style: solid;
+  border-color: #9c9c9c;
+  border-width: 1.5px;
+  width: 440px;
+  height: 382px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.younjung-m-psi-psikolog {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 128px;
+  top: 118px;
+  width: 219px;
+}
+.younjung {
+  border-radius: 330px;
+  width: 63px;
+  height: 64.05px;
+  position: absolute;
+  left: 40px;
+  top: 100px;
+}
+.psychologist-detail2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 40px;
+  top: 40px;
+  width: 198px;
+}
+._30-years-of-experience {
+  color: rgba(0, 0, 0, 0.6);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 37px;
+  top: 191px;
+  width: 181px;
+}
+.sipp-str {
+  position: absolute;
+  inset: 0;
+}
+.sipp-str2 {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 37px;
+  top: 232px;
+  width: 73px;
+}
+._5421-13-3-4334-2-2452-6661 {
+  color: rgba(0, 0, 0, 0.6);
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  position: absolute;
+  left: 37px;
+  top: 261px;
+  width: 215px;
+}
+.counseling-methods {
+  position: absolute;
+  inset: 0;
+}
+.counseling-methods2 {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 37px;
+  top: 299px;
+  width: 170px;
+}
+.online-offline {
+  color: rgba(0, 0, 0, 0.6);
+  text-align: left;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  position: absolute;
+  left: 37px;
+  top: 328px;
+  width: 112px;
+}
+.form-schedule {
+  width: 811px;
+  height: 795px;
+  position: absolute;
+  left: 120px;
+  top: 196px;
+}
+.rectangle2 {
+  background: #ffffff;
+  border-radius: 9px;
+  border-style: solid;
+  border-color: #9c9c9c;
+  border-width: 1.5px;
+  width: 811px;
+  height: 795px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.form-nama {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #9c9c9c;
+  border-width: 1.5px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 731px;
+  position: absolute;
+  left: 40px;
+  top: 116px;
+}
+.label {
+  background: #ffffff;
+  padding: 0px 4px 0px 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 12px;
+  top: -10.5px;
+}
+.nama-lengkap {
+  color: #9a9a9a;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+}
+.form-hp {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #9c9c9c;
+  border-width: 1.5px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 731px;
+  position: absolute;
+  left: 40px;
+  top: 215px;
+}
+.no-handphone {
+  color: #9a9a9a;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+}
+.form-schedule2 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #9c9c9c;
+  border-width: 1.5px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 731px;
+  position: absolute;
+  left: 40px;
+  top: 314px;
+}
+.schedule-dd-mm-yyyy {
+  color: #9a9a9a;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+}
+.form-methods {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #9c9c9c;
+  border-width: 1.5px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 731px;
+  position: absolute;
+  left: 40px;
+  top: 413px;
+}
+.counseling-methods-offline-online {
+  color: #9a9a9a;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+}
+.form-problem {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #9c9c9c;
+  border-width: 1.5px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 731px;
+  height: 134px;
+  position: absolute;
+  left: 40px;
+  top: 512px;
+}
+.problem-description {
+  color: #9a9a9a;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+}
+.complete-your-personal-data {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 40px;
+  top: 40px;
+  width: 366px;
+}
+.button-submit {
+  width: 173px;
+  height: 40px;
+  position: absolute;
+  left: 317px;
+  top: 690px;
+}
+.rectangle3 {
+  background: #41a2e8;
+  border-radius: 25px;
+  width: 173px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.submit {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 21.5px);
+  top: 12.5px;
+}
+.navigation-schedule {
+  width: 1311px;
+  height: 36px;
+  position: absolute;
+  left: 111px;
+  top: 44px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -125.5px);
+  top: 4px;
+  width: 49px;
+}
+.consultation {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -204.5px);
+  top: 4px;
+  width: 103px;
+}
+.counselor-profile {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -337.5px);
+  top: 4px;
+  width: 142px;
+}
+.history {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -504.5px);
+  top: 4px;
+  width: 55px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -589.5px);
+  top: 4px;
+  width: 66px;
+}
+.logo-menial {
+  width: 142px;
+  height: 36px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}

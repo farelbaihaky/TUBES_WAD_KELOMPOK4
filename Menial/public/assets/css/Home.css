@@ -1,0 +1,1309 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #ffffff;
+  width: 1519px;
+  height: 2914px;
+  position: relative;
+  overflow: hidden;
+}
+.navigation-home {
+  width: 1311px;
+  height: 36px;
+  position: absolute;
+  left: 111px;
+  top: 44px;
+}
+.home2 {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -125.5px);
+  top: 4px;
+  width: 49px;
+}
+.home-2-span {
+  color: #000000;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+.home-2-span2 {
+  color: #000000;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.consultation {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -204.5px);
+  top: 4px;
+  width: 103px;
+}
+.counselor-profile {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -337.5px);
+  top: 4px;
+  width: 137px;
+}
+.history {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -504.5px);
+  top: 4px;
+  width: 55px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -589.5px);
+  top: 4px;
+  width: 66px;
+}
+.logo-menial {
+  width: 142px;
+  height: 36px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.footer-home {
+  width: 1519px;
+  height: 459px;
+  position: absolute;
+  left: calc(50% - 759.5px);
+  top: 2455px;
+}
+.frame {
+  background: #41a2e8;
+  width: 1519px;
+  height: 459px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.address {
+  width: 397px;
+  height: 156px;
+  position: absolute;
+  left: calc(50% - 198.5px);
+  top: 76px;
+}
+.jl-telekomunikasi-1-terusan-buahbatu-bojongsoang-telkom-university-sukapura-kec-dayeuhkolot-kabupaten-bandung-jawa-barat-40257 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+  width: 397px;
+}
+.address2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.copyright-2023-menial {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 116px;
+  top: 359px;
+  width: 245px;
+}
+.social-media {
+  width: 220px;
+  height: 108px;
+  position: absolute;
+  left: 1064px;
+  top: 76px;
+}
+.social-media2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.instagram {
+  width: 47px;
+  height: 46px;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+  overflow: visible;
+}
+.youtube {
+  width: 46px;
+  height: 47px;
+  position: absolute;
+  left: 62px;
+  top: 60px;
+  overflow: visible;
+}
+.facebook {
+  width: 36px;
+  height: 37px;
+  position: absolute;
+  left: 123px;
+  top: 66px;
+  overflow: visible;
+}
+.line {
+  width: 46px;
+  height: 47px;
+  position: absolute;
+  left: 174px;
+  top: 61px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.line-footer {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 1168px;
+  height: 0px;
+  position: absolute;
+  left: 116px;
+  top: 329.5px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.logo-menial-2 {
+  width: 167px;
+  height: 42px;
+  position: absolute;
+  left: 117px;
+  top: 80px;
+}
+.testimonial {
+  width: 1517px;
+  height: 453px;
+  position: absolute;
+  left: 1px;
+  top: 2002px;
+}
+.rectangle {
+  background: #f2f2f6;
+  width: 1517px;
+  height: 453px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.text-testimonial {
+  width: 476.69px;
+  height: 143px;
+  position: absolute;
+  left: 142.22px;
+  top: 51px;
+}
+.testimonials {
+  color: #41a2e8;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 131.68px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-ut-elit-tellus-luctus-nec-ullamcorper-mattis-pulvinar-dapibus-leo {
+  color: #454545;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 71px;
+  width: 476.69px;
+}
+.what-they-re-talking-about-menial {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 23px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 27px;
+  width: 442.46px;
+}
+.testimonial-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle2 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 326.58px;
+  height: 231px;
+  position: absolute;
+  left: 1048.21px;
+  top: 68px;
+}
+.text-testimonial-2 {
+  width: 276.99px;
+  height: 116px;
+  position: static;
+}
+.diam-vulputate-ut-pharetra-sit-amet-aliquam-libero-enim-sed-faucibus-turpis-sed-viverra-tellus-in-hac-habitasse-platea-dictumst-normal-that-has {
+  color: #454545;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 29px;
+  font-weight: 400;
+  position: absolute;
+  left: 1076.72px;
+  top: 147.5px;
+  width: 276.99px;
+}
+.quote-icon-2 {
+  width: 80.06px;
+  height: 76px;
+  position: absolute;
+  left: 1076.72px;
+  top: 76px;
+  overflow: visible;
+}
+.polygon-2 {
+  width: 42.14px;
+  height: 18px;
+  position: absolute;
+  left: 1108.25px;
+  top: 310px;
+  transform: translate(2.82px, -13.5px);
+  overflow: visible;
+}
+.darwin-nunez {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 1133px;
+  top: 347px;
+  width: 148.54px;
+}
+.flopp-player {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1133px;
+  top: 374px;
+  width: 76.9px;
+}
+.darwin-nunez2 {
+  border-radius: 500px;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 1069px;
+  top: 348px;
+}
+.testimonial-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle3 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 326.58px;
+  height: 231px;
+  position: absolute;
+  left: 686.86px;
+  top: 68px;
+}
+.text-testimonial2 {
+  width: 276.99px;
+  height: 116px;
+  position: static;
+}
+.diam-vulputate-ut-pharetra-sit-amet-aliquam-libero-enim-sed-faucibus-turpis-sed-viverra-tellus-in-hac-habitasse-platea-dictumst-normal-that-has2 {
+  color: #454545;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 29px;
+  font-weight: 400;
+  position: absolute;
+  left: 715.38px;
+  top: 147.5px;
+  width: 276.99px;
+}
+.quote-icon {
+  width: 80.06px;
+  height: 76px;
+  position: absolute;
+  left: 715.38px;
+  top: 76px;
+  overflow: visible;
+}
+.polygon {
+  width: 42.14px;
+  height: 18px;
+  position: absolute;
+  left: 746.91px;
+  top: 310px;
+  transform: translate(2.82px, -13.5px);
+  overflow: visible;
+}
+.jurgen-klopp {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 774.3px;
+  top: 348px;
+  width: 143.27px;
+}
+.football-coach {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 774.3px;
+  top: 375px;
+  width: 96.92px;
+}
+.jurgen-klopp2 {
+  border-radius: 500px;
+  width: 50.57px;
+  height: 49px;
+  position: absolute;
+  left: 707.93px;
+  top: 348px;
+}
+.our-team {
+  width: 1440px;
+  height: 617px;
+  position: absolute;
+  left: 39px;
+  top: 1300px;
+}
+.text-team {
+  position: absolute;
+  inset: 0;
+}
+.our-team2 {
+  color: #41a2e8;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 136.5px;
+  top: 0px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-ut-elit-tellus-luctus-nec-ullamcorper-mattis-pulvinar-dapibus-leo2 {
+  color: #454545;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 136.5px;
+  top: 71px;
+  width: 615.18px;
+}
+.lets-meet-with-our-professionals-counsellor-profiles {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  position: absolute;
+  left: 136.5px;
+  top: 27px;
+}
+.card-team {
+  position: absolute;
+  inset: 0;
+}
+.card-background {
+  width: 268.72px;
+  height: 354px;
+  position: static;
+}
+.rectangle4 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 268.72px;
+  height: 354px;
+  position: absolute;
+  left: 135px;
+  top: 151px;
+}
+.amilia-agata {
+  width: 278px;
+  height: 370.67px;
+  position: absolute;
+  left: 131.5px;
+  top: 144.33px;
+}
+.linear {
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  border-radius: 10px;
+  width: 268.72px;
+  height: 354px;
+  position: absolute;
+  left: 135px;
+  top: 151px;
+}
+.text-card {
+  width: 226px;
+  height: 90.5px;
+  position: static;
+}
+.dr-amilia-agata {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 147px;
+  top: 412.75px;
+}
+.clinical-psychologist-hypnotherapist {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 147px;
+  top: 398.5px;
+}
+.sit-nam-urna-lobortis-cubilia-feugiat-sagittis-letius-netus-dignissim-pharetra-facilisi-malesuada {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 9px;
+  line-height: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 147px;
+  top: 455px;
+}
+.line-card {
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.28);
+  border-width: 1px 0 0 0;
+  width: 235px;
+  height: 0px;
+  position: absolute;
+  left: 147px;
+  top: 447px;
+}
+.card-team-2 {
+  position: absolute;
+  inset: 0;
+}
+.card-background-2 {
+  width: 268.72px;
+  height: 354px;
+  position: static;
+}
+.rectangle-14 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 268.72px;
+  height: 354px;
+  position: absolute;
+  left: 436px;
+  top: 151px;
+}
+.farel-baihaky {
+  width: 278px;
+  height: 370.67px;
+  position: absolute;
+  left: 432.5px;
+  top: 144.33px;
+}
+.linear-2 {
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  border-radius: 10px;
+  width: 268.72px;
+  height: 354px;
+  position: absolute;
+  left: 436px;
+  top: 151px;
+}
+.text-card-2 {
+  width: 226px;
+  height: 90.5px;
+  position: static;
+}
+.dr-farel-baihaky {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 448px;
+  top: 412.75px;
+}
+.clinical-psychologist-hypnotherapist2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 448px;
+  top: 398.5px;
+}
+.sit-nam-urna-lobortis-cubilia-feugiat-sagittis-letius-netus-dignissim-pharetra-facilisi-malesuada2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 9px;
+  line-height: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 448px;
+  top: 455px;
+}
+.line-card-2 {
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.28);
+  border-width: 1px 0 0 0;
+  width: 235px;
+  height: 0px;
+  position: absolute;
+  left: 448px;
+  top: 447px;
+}
+.card-team-3 {
+  position: absolute;
+  inset: 0;
+}
+.card-background-3 {
+  width: 268.72px;
+  height: 354px;
+  position: static;
+}
+.rectangle-142 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 268.72px;
+  height: 354px;
+  position: absolute;
+  left: 735px;
+  top: 151px;
+}
+.nabila {
+  width: 278px;
+  height: 370.67px;
+  position: absolute;
+  left: 731.5px;
+  top: 144.33px;
+}
+.linear-3 {
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  border-radius: 10px;
+  width: 268.72px;
+  height: 354px;
+  position: absolute;
+  left: 735px;
+  top: 151px;
+}
+.text-card-3 {
+  width: 226px;
+  height: 90.5px;
+  position: static;
+}
+.dr-nabila {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 747px;
+  top: 412.75px;
+}
+.clinical-psychologist-hypnotherapist3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 747px;
+  top: 398.5px;
+}
+.sit-nam-urna-lobortis-cubilia-feugiat-sagittis-letius-netus-dignissim-pharetra-facilisi-malesuada3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 9px;
+  line-height: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 747px;
+  top: 455px;
+}
+.line-card-3 {
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.28);
+  border-width: 1px 0 0 0;
+  width: 235px;
+  height: 0px;
+  position: absolute;
+  left: 747px;
+  top: 447px;
+}
+.card-team-4 {
+  position: absolute;
+  inset: 0;
+}
+.card-background-4 {
+  width: 268.72px;
+  height: 354px;
+  position: static;
+}
+.rectangle-143 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 268.72px;
+  height: 354px;
+  position: absolute;
+  left: 1037px;
+  top: 151px;
+}
+.humam {
+  width: 278px;
+  height: 370.67px;
+  position: absolute;
+  left: 1033.5px;
+  top: 144.33px;
+}
+.linear-4 {
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  border-radius: 10px;
+  width: 268.72px;
+  height: 354px;
+  position: absolute;
+  left: 1037px;
+  top: 151px;
+}
+.text-card-4 {
+  width: 226px;
+  height: 90.5px;
+  position: static;
+}
+.dr-humam {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1049px;
+  top: 412.75px;
+}
+.clinical-psychologist-hypnotherapist4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1049px;
+  top: 398.5px;
+}
+.sit-nam-urna-lobortis-cubilia-feugiat-sagittis-letius-netus-dignissim-pharetra-facilisi-malesuada4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 9px;
+  line-height: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 1049px;
+  top: 455px;
+}
+.line-card-4 {
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.28);
+  border-width: 1px 0 0 0;
+  width: 235px;
+  height: 0px;
+  position: absolute;
+  left: 1049px;
+  top: 447px;
+}
+.button-team {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3 {
+  background: #41a2e8;
+  border-radius: 25px;
+  width: 200px;
+  height: 40px;
+  position: absolute;
+  left: 136px;
+  top: 539px;
+}
+.right-arrow-svgrepo-com-1-4 {
+  border-radius: 25px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 289px;
+  top: 570.5px;
+  transform: translate(0px, -20px);
+  overflow: visible;
+}
+.meet-all-counsellor {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  left: 165px;
+  top: 551.5px;
+}
+.service {
+  width: 1171px;
+  height: 518px;
+  position: absolute;
+  left: 174px;
+  top: 695px;
+}
+.card-service {
+  width: 365px;
+  height: 234px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle5 {
+  background: #41a2e8;
+  border-radius: 10px;
+  width: 365px;
+  height: 234px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.get-treatment-for-all-your-mental-healthcare-needs {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 23px;
+  font-weight: 700;
+  position: absolute;
+  left: 15px;
+  top: 66px;
+}
+.our-services {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 15px;
+  top: 38px;
+}
+.button-service {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-6 {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 163px;
+  height: 45px;
+  position: absolute;
+  left: 15px;
+  top: 155px;
+}
+.see-all-services {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  left: 40px;
+  top: 169px;
+}
+.right-arrow-svgrepo-com-1-1 {
+  border-radius: 25px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 140px;
+  top: 167px;
+  overflow: visible;
+}
+.card-pahami {
+  width: 365px;
+  height: 249px;
+  position: absolute;
+  left: 395px;
+  top: 0px;
+}
+.card-background2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle6 {
+  background: #f79a2f;
+  border-radius: 10px;
+  width: 365px;
+  height: 234px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.pahami-dirimu {
+  width: 379px;
+  height: 252.57px;
+  position: absolute;
+  left: -9px;
+  top: -6px;
+}
+.button-pahami {
+  width: 288px;
+  height: 58px;
+  position: absolute;
+  left: 43px;
+  top: 191px;
+}
+.rectangle7 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 273px;
+  height: 58px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.pahami-dirimu2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 70px);
+  top: 16px;
+}
+.button-arrow {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-1 {
+  background: #41a2e8;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+  left: 251px;
+  top: 11.5px;
+}
+.right-arrow-svgrepo-com-1-2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 258.5px;
+  top: 18px;
+  overflow: visible;
+}
+.card-berbagi {
+  width: 365px;
+  height: 249px;
+  position: absolute;
+  left: 0px;
+  top: 269px;
+}
+.card-background-32 {
+  position: absolute;
+  inset: 0;
+}
+.berbagi-cerita {
+  width: 379px;
+  height: 252.57px;
+  position: absolute;
+  left: -9px;
+  top: -6px;
+}
+.button-berbagi {
+  width: 288px;
+  height: 58px;
+  position: absolute;
+  left: 43px;
+  top: 191px;
+}
+.berbagi-cerita2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 69px);
+  top: 16px;
+}
+.button-arrow-3 {
+  position: absolute;
+  inset: 0;
+}
+.right-arrow-svgrepo-com-1-22 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 258.5px;
+  top: 18px;
+  overflow: visible;
+}
+.card-schedule {
+  width: 365px;
+  height: 249px;
+  position: absolute;
+  left: 395px;
+  top: 269px;
+}
+.card-background-42 {
+  position: absolute;
+  inset: 0;
+}
+.schedule {
+  width: 379px;
+  height: 252.57px;
+  position: absolute;
+  left: -9px;
+  top: -6px;
+}
+.button-schedule {
+  width: 288px;
+  height: 58px;
+  position: absolute;
+  left: 43px;
+  top: 191px;
+}
+.rectangle-8 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 273px;
+  height: 58px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.schedule2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 46px);
+  top: 16px;
+}
+.button-arrow-4 {
+  position: absolute;
+  inset: 0;
+}
+.right-arrow-svgrepo-com-1-23 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 258.5px;
+  top: 18px;
+  overflow: visible;
+}
+.card-meditation {
+  width: 365px;
+  height: 249px;
+  position: absolute;
+  left: 806px;
+  top: 269px;
+}
+.card-background-5 {
+  position: absolute;
+  inset: 0;
+}
+.meditaion {
+  width: 379px;
+  height: 252.57px;
+  position: absolute;
+  left: -9px;
+  top: -6px;
+}
+.button-meditation {
+  width: 288px;
+  height: 58px;
+  position: absolute;
+  left: 43px;
+  top: 191px;
+}
+.meditation {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 52px);
+  top: 16px;
+}
+.button-arrow-5 {
+  position: absolute;
+  inset: 0;
+}
+.right-arrow-svgrepo-com-1-24 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 258.5px;
+  top: 18px;
+  overflow: visible;
+}
+.card-self {
+  width: 365px;
+  height: 249px;
+  position: absolute;
+  left: 806px;
+  top: 0px;
+}
+.card-background-22 {
+  position: absolute;
+  inset: 0;
+}
+.self-care {
+  width: 379px;
+  height: 252.57px;
+  position: absolute;
+  left: -9px;
+  top: -6px;
+}
+.button-self {
+  width: 288px;
+  height: 58px;
+  position: absolute;
+  left: 43px;
+  top: 191px;
+}
+.self-care2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 45px);
+  top: 16px;
+}
+.button-arrow-2 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-2 {
+  background: #41a2e8;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 37px;
+  height: 37px;
+  position: absolute;
+  left: 251px;
+  top: 11.5px;
+}
+.right-arrow-svgrepo-com-1-3 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 258.5px;
+  top: 18px;
+  overflow: visible;
+}
+.home-1 {
+  width: 1326px;
+  height: 500px;
+  position: absolute;
+  left: 111px;
+  top: 132px;
+}
+.home-background {
+  width: 1326px;
+  height: 500px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.home-1-text {
+  width: 677px;
+  height: 236px;
+  position: absolute;
+  left: 55px;
+  top: 132px;
+}
+.button-journey {
+  position: absolute;
+  inset: 0;
+}
+.rectangle8 {
+  background: #41a2e8;
+  border-radius: 25px;
+  width: 240px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 195.5px;
+}
+.start-your-healing-journey-menial {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 321.5px);
+  top: 207px;
+}
+.button-schedule2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-32 {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 240px;
+  height: 40px;
+  position: absolute;
+  left: 258px;
+  top: 195.5px;
+}
+.schedule-your-counseling-session {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 276.5px;
+  top: 207px;
+}
+.text {
+  position: absolute;
+  inset: 0;
+}
+.rediscover-your-bliss-and-harmony-explore-menial-com-your-hub-for-online-guidance-on-positive-livings {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 0.55px;
+  top: 0px;
+  width: 723.55px;
+}
+.you-re-not-alone-on-this-journey-our-compassionate-counselors-are-here-to-guide-you {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  left: 0.55px;
+  top: 141px;
+  width: 723.55px;
+}
